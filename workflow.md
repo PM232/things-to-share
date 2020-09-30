@@ -2,7 +2,8 @@
 
 I use a few MacOS apps to help me with all kinds of things:
 
-* Alfred
+* [Alfred](https://www.alfredapp.com/)
+The workflows below require purchase of the Alfred Powerpack upgrade. Highly worth the price!
   * [Alfred Tweet](http://www.packal.org/workflow/alfredtweet)
     * Useful for tweeting or interacting with Twitter.
   * [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow)
