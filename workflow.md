@@ -18,6 +18,8 @@ The workflows below require purchase of the Alfred Powerpack upgrade. Highly wor
     * Self-created workflow to quickly open commonly accessed websites.
   * Search Packal
     * Self-created workflow to quickly search Packal for Alfred workflows.
+  * [Alfred NightShift](https://github.com/shmulvad/alfred-nightshift/releases/tag/1.0.0)
+    * Enable or disable nightshift or set a custom value.
   * [Spotify Mini Player](https://alfred-spotify-mini-player.com/setup/)
     * Tons of cool Spotify controls right from within Alfred.
   * [Week](https://reinierladan.com/mac/get-the-current-week-number-in-alfred/)
