@@ -3,9 +3,9 @@
 I use a few MacOS apps to help me with all kinds of things:
 
 * Alfred
-  * [Alfred Tweet](http://www.packal.org/workflow/alfredtweet) 
+  * [Alfred Tweet](http://www.packal.org/workflow/alfredtweet)
     * Useful for tweeting or interacting with Twitter.
-  * caniuse:
+  * [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow)
     * Great for quickly searching and accessing the caniuse documentation.
   * [Case Converter 2](https://www.dropbox.com/s/3k2lh21g5wnqrkp/Case%20Converter%202.alfredworkflow?dl=0)
     * For converting the case of clipboard text.
